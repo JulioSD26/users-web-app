@@ -4,5 +4,5 @@
     const APP_NAME = "CRUD POO MySQL";
     const APP_SESSION_NAME = "CRUD";
 
-    date_default_timezone_get("America/Hermosillo");
+    date_default_timezone_get();
 
